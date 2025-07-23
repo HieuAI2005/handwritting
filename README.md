@@ -4,4 +4,4 @@ Using self-designed model with 2 Convolutional layers and 1 RNN layer (GRU). Tot
 
 1. Training with 5000 images train, 1000 images validation, 1500 images test (Accuracy: 65.1%)
 ![result](result.jpg)
-2. Training with 400k images train in Kaggle 
+2. Training with 330k images train, 41k images validation, 41k images test in Kaggle (Accuracy: 82.43%)
