@@ -1,0 +1,3 @@
+train: 5000 image
+test: 1500 image 
+validation: 1000 image
